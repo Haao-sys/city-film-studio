@@ -1,0 +1,6 @@
+{
+  "name": "city-film-project",
+  "private": true,
+  "type": "module",
+  "dependencies": {"three": "0.170.0", "playwright": "1.60.0"}
+}

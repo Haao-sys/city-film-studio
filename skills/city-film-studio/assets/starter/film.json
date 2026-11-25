@@ -1,0 +1,12 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "fps": 60,
+  "frames": 1500,
+  "loop": true,
+  "samples": 4,
+  "maxSamples": 16,
+  "msaa": 4,
+  "shutter": 0.65,
+  "pixelsPerSample": 2.5
+}

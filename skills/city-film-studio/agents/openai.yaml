@@ -1,0 +1,4 @@
+interface:
+  display_name: "城市短片工作室"
+  short_description: "用本城地理数据与程序建模制作有连续运镜、循环配乐的城市短片"
+  default_prompt: "使用 $city-film-studio，把我给出的城市和当地记忆制作成可编辑的三维短片。"
